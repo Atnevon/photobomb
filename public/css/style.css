@@ -1,7 +1,11 @@
-h1 {
-	color: yellow;
+body {
+	background-color: pink;
 }
 
-body {
-	background-color: yellow;
+a {
+	font-family: 'Titillium Web';
+	text-align: center;
+	color: white;
+	font-weight: 700;
+	text-align: center;
 }
